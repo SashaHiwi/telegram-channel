@@ -1,0 +1,29 @@
+body{
+	background-color: #B9FCF9;
+}
+.link{
+	color: black;
+	border: 3px solid darkblue;
+	border-radius: 25px;
+	text-decoration: none;
+	width: 80%;
+	font-size: 30px;
+	font-weight: 700;
+	background-color: skyblue;
+	margin-top: 50px;
+	padding: 20px 30px;
+}
+.divLink{
+	width: 100%;
+	flex-direction: column;
+    align-items: center;
+	display: flex;
+	text-align: center;
+}
+.link2{
+	color: black;
+	border-bottom: 1px black solid;
+	text-decoration: none;
+	position: absolute;
+	bottom: 10px;
+}
